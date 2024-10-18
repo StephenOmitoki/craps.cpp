@@ -1,5 +1,7 @@
 # craps.cpp
 
+Stephen Omitoki
+
 Overview:
 This program simulates the game of Craps with wagering features. The player starts with 100 credits and can place bets on each game round. The game involves rolling two dice, and the outcome determines whether the player wins or loses. The player can keep playing until they either run out of credits or choose to quit.
 
